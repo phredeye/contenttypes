@@ -1,0 +1,13 @@
+{
+    "name": "ContentTypes",
+    "alias": "contenttypes",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ContentTypes\\Providers\\ContentTypesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

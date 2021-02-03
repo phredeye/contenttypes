@@ -1,0 +1,26 @@
+{
+    "name": "phredeye/contenttypes",
+    "description": "",
+    "authors": [
+        {
+            "name": "Fred Isaacs",
+            "email": "phredeye@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\ContentTypes\\": ""
+        }
+    },
+    "require": {
+        "spatie/laravel-sluggable": "^2.6"
+    }
+}
